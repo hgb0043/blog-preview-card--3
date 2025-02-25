@@ -1,10 +1,6 @@
 body {
     background-color: hsl(47, 88%, 63%);
     
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
     height: 100vh;
     width: 100vw;
 
@@ -14,9 +10,9 @@ body {
 #container {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
 
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     translate: -50% -50%;
@@ -30,17 +26,46 @@ body {
     box-shadow: 6px 6px 1px rgba(0,0,0,1)
 }
 
-#logo {
+#logo-div {
     width: 215px;
     margin-top: 15px;
     border-radius: 7px;
+    align-self: center;
 
+    margin-bottom: 15px;
 }
 
 #learning-tag {
-    padding: 5px;
+    width: 60px;
+    height: 30px;
+    margin-left: 17.5px;
+    padding: 10px;
+    border-radius: 2.5px;
+
     background-color:  hsl(47, 88%, 63%);
+    
+    font-weight: 800;
+    font-size: 10px;
+
+    margin-bottom: 10px;
+    position: relative;
 }
+
+#learning-text {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+}
+
+#publish-date {
+    font-size: 10px;
+    margin-left: 17.5px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+
 
 
 
