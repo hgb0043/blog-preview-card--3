@@ -19,7 +19,7 @@ body {
 
     border: 1px solid black;
     border-radius: 15px;
-    width: 250px;
+    width: 255px;
     height: 350px;
 
     background-color: white;
@@ -27,12 +27,15 @@ body {
 }
 
 #logo-div {
-    width: 215px;
-    margin-top: 15px;
-    border-radius: 7px;
+    width: 220px;
+    margin-top: 22px;
     align-self: center;
 
     margin-bottom: 15px;
+}
+
+#logo {
+    border-radius: 8px;
 }
 
 #learning-tag {
