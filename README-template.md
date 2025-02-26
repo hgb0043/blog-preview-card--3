@@ -14,11 +14,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This is a blog preview card built using standard HTMl & CSS
 
 ### The challenge
 
@@ -28,83 +26,49 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Solution Screenshot](assets/images/solution-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](file:///c%3A/Users/hayes/OneDrive/Documents/GitHub/blog-preview-card--3/design/desktop-design.jpg)
+- Live Site URL: [Add live site URL here](https://hgb0043.github.io/blog-preview-card--3/)
 
 ## My process
+
+- First, create an index.html file; this will serve as the primary and sole HTML file. 
+
+- Create a css file that will serve as your primary css file; I named mine main.css. If you would like, create a reset.css file and give it a standard css reset (look up css reset if confused).
+
+- Create your HTML structure. There are a few main ways to structure the content. I used a columnal flexbox. You can also use a grid given that the file is static.
+
+- Style the page using CSS. This should involve relatively straightforward CSS code using orthodox sizing and some margins. Perhaps the most tricky part of the design is the border and shadow around the main container. A quick hint: The first two values in the "box-shadow" skew the shadow to the right/left and up/down respectively. 
+
+- Finally, create an attribution in the bottom if you would like. I recommend using a "footer" tag on this element and positioning it using "position: absolute" with respect to the body element.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Desktop-first workflow
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I did not learn any novel code concepts; rather, I got some valuable practice in with some concepts that I was already familiar with but not yet entirely comfortable at the rate I would like.
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Understanding how to optimize the HTML layout for CSS styling is still a challenge for me. I am confident, though, that this is something that just naturally improves with more general HTML/CSS practice. 
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I want to continue to focus on flexbox and its uses and properties. It has been something I have been working on for a while and it is the toughest topic I have ecountered so far in my young programming career.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=21071s) This is an extremely thorough and helpful HTML & CSS course that I couldn't recommend more.  
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@hgb0043](https://www.frontendmentor.io/profile/hgb0043)
+- Twitter - [@hgblackstone](https://www.twitter.com/hgblackstone)
+- LinkedIn [@hayes_blackstone])https://www.linkedin.com/in/hayes-blackstone-a74182352/ 
