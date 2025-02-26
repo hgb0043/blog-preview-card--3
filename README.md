@@ -71,4 +71,4 @@ I want to continue to focus on flexbox and its uses and properties. It has been 
 ## Author
 - Frontend Mentor - [@hgb0043](https://www.frontendmentor.io/profile/hgb0043)
 - Twitter - [@hgblackstone](https://www.twitter.com/hgblackstone)
-- LinkedIn [@hayes_blackstone])https://www.linkedin.com/in/hayes-blackstone-a74182352/ 
+- LinkedIn [hayes-blackstone])https://www.linkedin.com/in/hayes-blackstone-a74182352/ 
