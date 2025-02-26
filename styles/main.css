@@ -19,7 +19,7 @@ body {
 
     border: 1px solid black;
     border-radius: 15px;
-    width: 255px;
+    width: 260px;
 
     background-color: white;
     box-shadow: 6px 6px 1px rgba(0,0,0,1)
@@ -39,9 +39,8 @@ body {
 
 #learning-tag {
     width: 60px;
-    height: 30px;
+    height: 18px;
     margin-left: 17.5px;
-    padding: 10px;
     border-radius: 2.5px;
 
     background-color:  hsl(47, 88%, 63%);
@@ -78,7 +77,13 @@ body {
     color: hsl(0, 0%, 42%);
     font-weight: 500;
     margin-left: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+}
+
+#author-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
 }
 
 #profile-picture {
@@ -88,9 +93,13 @@ body {
     margin-left: 20px;
 }
 
+
 #author {
-    display: inline-block;
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 8px;
 }
+
 
 
 
