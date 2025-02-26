@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](file:///c%3A/Users/hayes/OneDrive/Documents/GitHub/blog-preview-card--3/design/desktop-design.jpg)
-- Live Site URL: [Add live site URL here](https://hgb0043.github.io/blog-preview-card--3/)
+- Solution URL: [Click Here](file:///c%3A/Users/hayes/OneDrive/Documents/GitHub/blog-preview-card--3/design/desktop-design.jpg)
+- Live Site URL: [Click Here](https://hgb0043.github.io/blog-preview-card--3/)
 
 ## My process
 
@@ -39,7 +39,7 @@ Users should be able to:
 
 - Create a css file that will serve as your primary css file; I named mine main.css. If you would like, create a reset.css file and give it a standard css reset (look up css reset if confused).
 
-- Create your HTML structure. There are a few main ways to structure the content. I used a columnal flexbox. You can also use a grid given that the file is static.
+- Create your HTML structure. There are a few main ways to structure the content. I used a columnal flexbox. You can also use a grid structure if you intend to create a static structure (appropriate for this project).
 
 - Style the page using CSS. This should involve relatively straightforward CSS code using orthodox sizing and some margins. Perhaps the most tricky part of the design is the border and shadow around the main container. A quick hint: The first two values in the "box-shadow" skew the shadow to the right/left and up/down respectively. 
 
