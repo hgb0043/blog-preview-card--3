@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](file:///c%3A/Users/hayes/OneDrive/Documents/GitHub/blog-preview-card--3/design/desktop-design.jpg)
+- Solution URL: [Click Here](http://127.0.0.1:5500/index.html)
 - Live Site URL: [Click Here](https://hgb0043.github.io/blog-preview-card--3/)
 
 ## My process
